@@ -1,0 +1,17 @@
+h1, h2 {
+  font-family: Lato;
+  font-size: 18px;
+  font-style: arial black;
+}
+ p{
+   color: #2f4c5c;
+ }
+
+ .box{
+   background: pink;
+   padding: 100px;
+   margin: 0px;
+ }
+ .head{
+   background: green;
+ }
